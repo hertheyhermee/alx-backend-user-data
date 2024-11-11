@@ -1,18 +1,4 @@
-0x00. Personal data
-===================
-
-Back-endAuthentification
-
--   By Emmanuel Turlay, Staff Software Engineer at Cruise
--   Weight: 1
-
-### Concepts
-
-*For this project, we expect you to look at this concept:*
-
--   [User management](https://alx-intranet.hbtn.io/concepts/558)
-
-![image](https://github.com/AsuweRich/alx-backend-user-data/assets/106776383/fbec2a18-80e1-4d1a-8225-497ae6936218)
+# 0x00. Personal data
 
 Resources
 ---------
